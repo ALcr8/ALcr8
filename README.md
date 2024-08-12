@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ALcr8
-- 👀 I’m interested in Data Science, Machines Learning and AI
+- 👀 I’m interested in Data Science, Machine Learning and AI
 - 🌱 I’m currently learning Data Science and Software Engineering 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on real-world projects
 - 📫 How to reach me @harlharmeen04@hotmail.com
 - ⚡ Fun fact: Programming is not just writing code, it's problem-solving, debugging, and learning.
 
